@@ -37,6 +37,8 @@ function draw() {
     size = g;
     buildGrid();
   }
+  // redeploy
+
 
   
   if (isInverted) background(10);
